@@ -1,0 +1,25 @@
+[04:42:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:42:04] [ServerMain/INFO]: Loaded 1373 recipes
+[04:42:04] [ServerMain/INFO]: Loaded 1416 advancements
+[04:42:05] [Server thread/INFO]: Starting minecraft server version 25w14craftmine
+[04:42:05] [Server thread/INFO]: Loading properties
+[04:42:05] [Server thread/INFO]: Generating keypair
+[04:42:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:42:05] [Server thread/INFO]: Using default channel type
+[04:42:05] [Server thread/INFO]: Preparing level "world"
+[04:42:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:42:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:42:06] [Server thread/INFO]: Time elapsed: 300 ms
+[04:42:06] [Server thread/INFO]: Default game type: SURVIVAL
+[04:42:06] [Server thread/INFO]: Done (0.538s)! For help, type "help"
+[04:43:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:43:26] [User Authenticator #1/INFO]: UUID of player pypsik153 is 7a3ea9ac-53e3-443e-9163-5b187410cc99
+[04:43:27] [Server thread/INFO]: pypsik153[/127.0.0.1:55083] logged in with entity id 1 at (13.5, 2.0, 8.5)
+[04:43:27] [Server thread/INFO]: pypsik153 joined the game
+[04:43:29] [Server thread/INFO]: pypsik153 was killed
+[04:43:29] [Server thread/INFO]: [pypsik153: Killed pypsik153]
+[05:09:55] [Server thread/INFO]: pypsik153 was killed
+[05:09:55] [Server thread/INFO]: [pypsik153: Killed pypsik153]
+[05:13:24] [Server thread/INFO]: pypsik153 lost connection: Disconnected
+[05:13:24] [Server thread/INFO]: pypsik153 left the game
+[05:14:24] [Server thread/INFO]: Server empty for 60 seconds, pausing

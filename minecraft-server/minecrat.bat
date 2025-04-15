@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-23\bin\java.exe" -Xms256m -Xmx2048m -jar server.jar
