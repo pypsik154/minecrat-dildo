@@ -1,4 +1,4 @@
-const apiUrl = 'https://minecraft-api-server.cloudpub.ru/api/deaths'; // URL серверного API
+const apiUrl = 'http://localhost:3023/api/deaths'; // URL серверного API
 
 // Получаем статистику смертей с серверного API
 function fetchDeathStats() {
